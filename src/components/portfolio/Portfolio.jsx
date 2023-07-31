@@ -28,7 +28,7 @@ const Portfolio = () => {
         'Enabling apprentice developers to test their knowledge.',
       technologies: 'CSS | Bootstratp | ReactJs | MySQL | JAVA8 | SpringBoot | SQL | REST API.',
       link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+      github: 'https://github.com/nour-derwich/',
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ const Portfolio = () => {
       description: 'User friendly Platform to review places visited',
       technologies: 'NodeJS | Express | MangoDB | ReactJs | REST API.',
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      github: 'https://github.com/nour-derwich/',
     },
     {
       id: 4,
@@ -47,7 +47,7 @@ const Portfolio = () => {
         'Fully responsive interactive website built based on Figma design',
       technologies: 'JavaScript | CSS',
       link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
+      github: 'https://github.com/nour-derwich/',
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ const Portfolio = () => {
         'A web application that offers its users the ability to post offers and products with specific deadlines and conditions.',
       technologies: 'CSS | Bootstratp | ReactJs | MySQL | JAVA8 | SpringBoot | SQL | REST API.',
       link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
+      github: 'https://github.com/nour-derwich/',
     },
     {
       id: 6,
@@ -67,7 +67,7 @@ const Portfolio = () => {
         'A GreenTech Donations Website',
       technologies: 'Python | Bootstrap | HTML | CSS |Flask | MySQL',
       link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
+      github: 'https://github.com/nour-derwich/',
     },
   ];
 
