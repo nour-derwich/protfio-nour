@@ -47,10 +47,10 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:woman: **nour Derouich**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/nour-derwich/)
+- [LinkedIn](https://www.linkedin.com/in/nour-derouich/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
